@@ -17,26 +17,23 @@ Authors [Freddie Manyate](https://github.com/FreshDaDon 'Freddie Manyate') and [
 
 1. Make sure you have these installed
 
-   - [Google Chrome](https://www.google.com/chrome/ 'Google Chrome')
-   - [Firefox](https://www.mozilla.org/en-GB/firefox/download/thanks/ 'Firefox')
+   - [PyCharm Community](https://www.jetbrains.com/pycharm/download/ 'PyCharm Community')
+     - I used version 2020.3 at time of creation
 
-2. XAMPP is an easy to install Apache distribution containing MariaDB, PHP, and Perl
-   [XAMPP](https://www.apachefriends.org/download.html 'XAMPP')
-
-3. Clone this repository into your local machine using the terminal (mac) or
+2. Clone this repository into your local machine using the terminal (mac) or
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)')
 
    ```sh
    git clone https://github.com/iammelvink/code-clinic-22-10-2022.git
    ```
 
-4. Run
+3. Run
 
    ```sh
    cd code-clinic-22-10-2022
    ```
 
-5. Open `index.html` in your favourite browser
+4. Open `main.py` in PyCharm
 
 ## More Stuff
 
